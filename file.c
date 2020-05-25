@@ -7,3 +7,4 @@ git credential
 git credential2
 make feature/222 branch
 change git config
+local remote test
