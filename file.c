@@ -16,4 +16,9 @@ bbbb
 tag test
 tag test2
 test test
+<<<<<<< HEAD
 master test
+=======
+dragonchan test
+
+>>>>>>> 3c670b1291def38659a5d5b3fe34a3cf71d8603c
